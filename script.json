@@ -1,5 +1,5 @@
 {
-    "HELLO": "Hello. My name is Yang YiFan, you can call me Nap. I'm a game designer from Taiwan Taipei.",
+    "HELLO": "Hello. My name is Yang YiFan, you can call me Nap. I'm a game designer from Taiwan Taipei. %[I want to know more about you](postback:SURE)",
     "SURE": "Let's me introduce myslef.",
     "KEEP GOING": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
