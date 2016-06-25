@@ -1,5 +1,5 @@
 {
-    "HELLO": "Hello. I am Nap's robot.%[Introduce yourself](postback:) %[Nothing](postback:)",
+    "HELLO": "Nice to meet you. What can I do for you? %[Introduce yourself](postback:) %[Nothing](postback:)",
     "INTRODUCE YOURSELF": "My name is Yang YiFan, you can call me Nap. I am a 6+years experience game designer from Taiwan Taipei.%[Tell me more](postback:) %[Nothing](postback:)",
     "TELL ME MORE":"I grew up in a military family. Because of that, I went to military school after I graduated from elementary school. This is where I learned discipline and obedience. I am a game designer who is familiar with level design, UX design, server-client design, formula design, data mining and mathematics. I am passionate about designing software which I believe will be able to make a better lifestyle for everyone in the world. I always think about how to make things better. I also think about how to bring more fun to the world. Besides, I have great VBA skill to develop excel plug-ins to improve work effectively and efficiently. Also, I've developed an excel file which is able to get data from websites automatically and analyze it. I also have great interest in VR/AR industry to embrace the newest technology. I'm good at analyzing problems, solving problems and I never stop learning. Live and learn is my favorite motto.%[Why did you join game industry](postback:)",
     "WHAT'S YOUR EXPERIENCE":"I've been Game Designer about 6 years at Playcoo. After playcoo, I went to China Shenzhen to be a Product Planning Manager at Megafone. And then I found the game industry is still my favorite, so I decided to go back to Taiwan and be a senior game designer at IGG. %[Tell me about Playcoo](postback:) %[Tell me about Megafone](postback:) %[Tell me about IGG](postback:)",
@@ -17,8 +17,8 @@
     "WHY YOU GO BACK TO TAIWAN":"Because I decided to get married. So, my family want me to go back and settle down. Besides, I still love to develop games. I'm dreaming about I could be a game producer one day in the future. Make a good game and bring more fun to the world. %[Tell me about IGG](postback:) %[Tell me about your skills](postback:)",
     "TELL ME ABOUT IGG":"IGG is a China game developer and it has an office in Taiwan Taipei. My responsibility is developing in-game currency and doing data mining about Europe and North America game market. %[Tell me about your skills](postback:)",
     "NOTHING": "That's ok. Thanks for reaching me out.",
-    "你好":"你好，我是楊毅凡的聊天機器人。 %[請問你從事哪方面的工作](postback:) %[謝謝，沒有問題了](postback:)",
-    "請問你從事哪方面的工作":"我叫楊毅凡，我是一個有6年以上開發經驗的遊戲企劃。 %[好的，介紹一下你自己](postback:) %[謝謝，沒有問題了](postback:)",
+    "你好":"很高興認識你，請問有什麼事嗎？ %[請問你從事哪方面的工作](postback:) %[沒事](postback:)",
+    "請問你從事哪方面的工作":"我叫楊毅凡，我是一個有6年以上開發經驗的遊戲企劃。 %[好的，介紹一下你自己](postback:)",
     "好的，介紹一下你自己":"我出身在軍人的家庭，國小畢業後去就讀中正預校，在這裡我學習到領導統馭與服從。後來我成為遊戲企劃，我主要負責戰鬥系統、經濟系統、成長曲線等數值方面的工作。我熟悉Excel VBA，工作上我會開發許多插件來增進工作效率，像是一鍵翻譯以及自動比對錯誤等功能。我善於分析、解決問題，喜歡嘗試新的事物與新的科技。活到老學到老，是我最喜歡的座右銘。 %[說說你的工作經歷](postback:)",
     "說說你的工作經歷":"我在玩酷科技擔任了6年的遊戲企劃。後來，我去深圳的手機制造商Megafone擔任產品規劃師。接著，我加入了IGG集團擔任資深數值企劃的工作。 %[我想瞭解玩酷科技](postback:) %[我想瞭解Megafone](postback:) %[我想瞭解IGG](postback:)",
     "我想瞭解玩酷科技":"玩酷科技曾是遊戲橘子旗下的子公司，目前已經轉移到樂陞集團底下。一開始，我是線上遊戲快轉童話的團隊成員，我主要負責戰鬥系統、成長曲線、怪物、技能等工作。後來主企劃告知要我接手原本是其他成員負責的經濟系統，是的，他搞砸了。於是我同時負責遊戲戰鬥與經濟兩大系統，雖然工作量增加為兩倍，但能把事情做對與做好才是我的目標。接著，我加入星辰手遊的開發團隊。我主要負責戰鬥系統、成長曲線、怪物與技能。 #[我想瞭解快轉童話](postback:) %[我想瞭解星辰手遊](postback:) %[我想瞭解Megafone](postback:)",
@@ -33,6 +33,7 @@
     "我想瞭解你的學歷":"我從國立成功大學土木工程學系以及土木工程研究所畢業，我碩士主修土木工程結構材料。國中與高中都是中正預校，中正預校是培養國軍幹部的軍事院校。 %[可以給我你的LinkedIn嗎](postback:) %[謝謝，沒有問題了](postback:)",
     "可以給我你的LINKEDIN嗎":"這是我的榮幸。%[楊毅凡的LinkedIn.](http://tw.linkedin.com/in/nap-yang-1b201240) %[謝謝，沒有問題了](postback:)",
     "謝謝，沒有問題了":"謝謝你，我們保持聯絡。",
+    "沒事":"沒關係，希望能有機會再次聯絡。",
     "/START":"![nap](https://raw.githubusercontent.com/napyang/EstherBot/master/img/Nap.jpg)\nHi, I am Nap's chatting robot. 嗨，我是楊毅凡的聊天機器人。 %[Hello](postback:) %[你好](postback:)",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, NapBot is back."
