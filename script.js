@@ -13,7 +13,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('Hi I am Naps chatting robot. 嗨，我是楊毅凡的聊天機器人。%[Hello](postback:)%[你好](postback:)')
+            return bot.say('Hi I am Naps chatting robot. 嗨，我是楊毅凡的聊天機器人。 %[Hello](postback:) %[你好](postback:)')
                 .then(() => 'speak');
         }
     },
@@ -44,7 +44,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`Hi I am Naps chatting robot. 嗨，我是楊毅凡的聊天機器人。%[Hello](postback:)%[你好](postback:)`).then(() => 'speak');
+                    return bot.say(`![nap](https://raw.githubusercontent.com/napyang/EstherBot/master/img/Nap.jpg)\nHi I am Naps chatting robot. 嗨，我是楊毅凡的聊天機器人。 %[Hello](postback:) %[你好](postback:)`).then(() => 'speak');
                 }
 
                 var response = scriptRules[upperText];
