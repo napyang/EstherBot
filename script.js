@@ -44,7 +44,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`/START`).then(() => 'speak');
+                    return bot.say(`Hi I am Naps chatting robot. 嗨，我是楊毅凡的聊天機器人。%[Hello](postback:)%[你好](postback:)`).then(() => 'speak');
                 }
 
                 var response = scriptRules[upperText];
