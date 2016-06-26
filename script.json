@@ -44,6 +44,9 @@
     "什麼是精品遊戲市場":"精品遊戲市場就是一些核心玩法單純且注重趣味與平衡性的遊戲，人們主要是用來娛樂與打發時間的消遣。 %[什麼是簡單粗暴遊戲市場](postback:) %[想瞭解一下你的工作背景](postback:) %[沒問題了，很高興認識你](postback:)",
     "什麼是簡單粗暴遊戲市場":"簡單粗暴遊戲市場就是內容大幅建構在利用現實貨幣購買強度的遊戲，人們主要是用來發洩以及炫耀自己的經濟能力。 %[什麼是精品遊戲市場](postback:) %[想瞭解一下你的工作背景](postback:) %[沒問題了，很高興認識你](postback:)",
     "沒問題了，很高興認識你":"謝謝，很高興和你交談。",
+    "START CHATTING":"![nap](https://raw.githubusercontent.com/napyang/EstherBot/master/img/Nap.jpg) \nHi I am Naps chatting robot. 嗨，我是楊毅凡的聊天機器人。 %[Hello](postback:) %[你好](postback:)",
+    "HELP":"Here is what I can do for you. 需要什麼協助嗎？ %[Start Chatting](postback:) %[Get Contact. 取得聯繫](postback:)",
+    "GET CONTACT. 取得聯繫":"You can contact me via following links. 你可以透過以下連結與我聯繫。 %[LinkedIn](http://tw.linkedin.com/in/nap-yang-1b201240) %[Telegram Messenger](https://telegram.me/napyang)",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, NapBot is back."
 }
